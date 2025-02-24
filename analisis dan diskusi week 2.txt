@@ -1,0 +1,20 @@
+Nama : Farhat Fadel Yusmanan
+NIM : 224308033
+Kelas : TKA-6B
+Akun Github (Tautan):https://github.com/farhatfadel17
+Student Lab Assistant :Mbak Dwi
+
+Analisis
+1. Bagaimana performa model dalam mendeteksi warna?
+Dengan menggunakan model KNN bisa memberikan performa yang baik dalam mendeteksi warna karena memiliki banyak warna yang beragam pada dataset. Model K-Nearest Neighbors (KNN) pada kode tersebut menggunakan fitur RGB untuk melakukan klasifikasi warna.
+2. Bagaimana perbedaan akurasi jika jumlah dataset ditambah?
+Dengan lebih banyak data warna, dapat mengklarifikasi warna dengan baik dan dapat meningkatkan akurasi untuk mendeteksi warna. Tetapi akurasi dalam mendeteksi warna juga tergantung dengan tingkat pencahayaan pada lingkungan disekitar karena dapat mempengaruhi hasil akurasi.
+3. Bagaimana cara meningkatkan kinerja model klasifikasi? 
+Bisa menambahkan program untuk mengkoversi dari BGR ke dalam HSV karena dapat memisahkan warna dari intensitas cahaya. Untuk meningkatkan kinerja model klasifikasi dapat menambahkan model seperti Support Vector Machine (SVM) atau Neural Networks agar bisa lebih akurat.
+Diskusi
+1. Apa keuntungan Machine Learning dibandingkan metode berbasis aturan (rule-based)?
+Machine Learning dapat mengenali dan mengidentifikasi data yang rumit atau lebih kompleks tanpa adanya aturan yang ditentukan secara manual. Machine Learning dapat beradaptasi dengan perubahan data dan dapat meningkatkan akurasi seiring waktu. Sedangkan, rule-based tidak dapat mengenali dan mengidentifikasi data yang kompleks. Rule-based memerlukan pembaruan data baru secara manual dan tidak efisensi terhadap waktu. 
+2. Bagaimana ML dapat diintegrasikan lebih lanjut dalam sistem kendali?
+dengan memanfaatkan algoritma matematika untuk menganalisis data dalam jumlah besar dan mengoptimalkan kinerja sistem machine learning. Penggunaan machine learning dalam sistem kendali berbasis PLC dapat beradaptasi dan pembelajaran dari pola data operasi, yang meningkatkan efisiensi waktu dan respons pada sistem.
+3. Apa saja tantangan dalam penerapan ML dalam sistem real-time?  
+Memerlukan data yang besar seperti harus memiliki server yang cepat dan penyimpanan yang cukup untuk memastikan data dapat diproses secara cepat , sehingga keterbatasan data dapat menghambat akurasi secara real-time.
